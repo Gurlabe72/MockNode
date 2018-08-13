@@ -1,0 +1,63 @@
+
+/*Nav====================================================*/
+nav {
+    border:solid;
+    font:100%;
+    font-family: "times";
+    
+    } 
+
+nav a:hover {
+	color:brown;
+	text-align: right;
+}
+
+/*NAV===============================================*/
+
+header {
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWViHHm3OH0Fx0hFvVxFjxRZQbpWtnPt4HJ8_l4-n3Gsoy7TGkig");
+	border-style:dotted;
+	font-family: "veranda";
+}
+
+body {
+	text-align: center;
+	background-color:blue;
+}
+
+.signIn {
+	font-size: 80%;
+	border-radius: 15%
+}
+
+aside img {
+	opacity:12px;
+	border-radius:
+	border-color: brown;
+}
+
+img {
+	max-width: 100%;
+	padding:5%;
+}
+
+aside { 
+background-color: blue;
+text-align: :center auto;
+ }
+
+ footer {
+	text-align: center;
+}
+ /*nedia queries======================================================*/
+@media only screen (max-width:320px) {
+ font-size:30em;
+ }
+
+ @media not screen (max-width: 320px)
+ {}
+ }
+ @media screen (max-width: 320px){
+ 	background-color: blue
+ }
+ /*Media Quries=============================================*/
