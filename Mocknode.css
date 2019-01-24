@@ -1,27 +1,29 @@
-
 nav {
-	text-align: center;
+  text-align: center;
 }
 
 section {
-	text-align: center;
+  text-align: center;
 }
 
 nav {
-	background-color:black;
+  background-color: black;
 }
 
 footer {
-	text-align: center;
-	background-color: black;
-	font-color:white;
+  text-align: center;
+  background-color: black;
+  font-color: white;
 }
 
 .trademark {
-	background-color: black;
+  background-color: black;
 }
 
-@media screen (max-width: 320px){
-	background-img: 320px;
-
+@media only screen and (max-width: 600px) {
+  body {
+    float: none;
+    width: 100%;
+    background-color: rgb(19, 54, 209);
+  }
 }
